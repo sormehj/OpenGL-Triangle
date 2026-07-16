@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenGL-Triangle.vcxproj" Id="6fdb473d-cbf8-40ad-9ebb-52406f5a3a52" />
+</Solution>
