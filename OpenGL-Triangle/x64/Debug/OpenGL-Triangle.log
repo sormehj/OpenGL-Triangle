@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\SJ\Documents\Github\OpenGL-Triangle\main.cpp(43,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  OpenGL-Triangle.vcxproj -> C:\Users\SJ\Documents\Github\OpenGL-Triangle\x64\Debug\OpenGL-Triangle.exe
