@@ -1,5 +1,13 @@
-.vs
+.vs/
 [Db]in/
 [Ob]j/
 *.user
 *.suo
+X64/
+Debug/
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.exe
+*.log
